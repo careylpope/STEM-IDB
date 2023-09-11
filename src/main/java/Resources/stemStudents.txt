@@ -1,0 +1,6 @@
+000111222`Carol`M`Peterson`Female`Black or African American`Not Reported`No`01040`cpeterson@hcc.edu`Biology`4.1`Not Reported
+000456123`Wayne``Bruce`Male`Not Reported`Not Reported`Not Reported`01040`wbruce123@hcc.edu`Crime Fighting`4.0`Not Reported
+000598210`Petricia``Smith`Female`White`Not Hispanic or Latino`No`01077`pwhite@hcc.edu`Computer Science`3.5`Not Reported
+000856123`Ronald``Donald`Intersex`Not Reported`Not Reported`Not Reported`01040`rdonald123@hcc.edu`Culinary`2.0`Not Reported
+000912345`Marie``Eleanor`Female`Black or African American`Not Hispanic or Latino`No`01085`meleanor345@hcc.edu`Biology`3.9`Not Reported
+000918211`Maya``Lin`Female`Asian`Not Hispanic or Latino`Not Reported`01077`mlin211@hcc.edu`Computer Science`4.0`Work on the cutting edge of robotics and engineering through Computer Science.
